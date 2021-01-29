@@ -7,6 +7,6 @@
        spring.aws.secretsmanager.secretName=<your secret name>
        spring.aws.secretsmanager.endpoint=<secret manager end point>
        spring.aws.secretsmanager.region=<region>
-  4.Run the Application
-  5.Verify that spring boot app is connecting to DB.
+ 4.Run the Application
+ 5.Verify that spring boot app is connecting to DB.
  
