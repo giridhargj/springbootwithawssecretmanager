@@ -1,4 +1,4 @@
-﻿# springbootwithawssecretmanager
+﻿# Starting Spring Boot Application using AWS secret from Secret Manager
  
  
  1. Create a AWS Secret. Follow https://docs.aws.amazon.com/secretsmanager/latest/userguide/tutorials_basic.html 
